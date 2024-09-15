@@ -21,3 +21,4 @@ fruits.forEach(function(fruits) {
 const names = ["Dami", "Wuyi", "Ade"];
 names.forEach(names => console.log(names));
 //document.getElementById("Superdamidev").innerHTML = names;
+console.log(names);
